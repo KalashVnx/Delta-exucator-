@@ -1,4 +1,4 @@
-# Delta-exucator-
+# Delta-exucator
 
 <div align="center">
 
